@@ -1,0 +1,20 @@
+{
+    "name": "Cheesy Website",
+    "short_name": "Cheese",
+    "start_url": "https://stanthecheeseman.github.io/cheesy-website/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
