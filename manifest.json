@@ -1,1 +1,15 @@
-{"short_name":"Cheesy Website","name":"Cheesy Website made by Cheeseman_GT","icons":[{"src":"icon.png","sizes":"256x256","type":"image/png"}],"display":"fullscreen","orientation":"landscape","background_color":"#000000","start_url": "cheesy-website"}
+{
+    "name": "Cheesy Website",
+    "short_name": "Cheesy Site",
+    "start_url": "/cheesy-website",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ]
+}
