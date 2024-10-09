@@ -1,7 +1,7 @@
 {
     "name": "Cheesy Website",
     "short_name": "Cheesy Site",
-    "start_url": "/cheesy-website",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
